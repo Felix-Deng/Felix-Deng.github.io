@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuanzhe Deng"
+title                    : "Yuanzhe (Felix) Deng"
 title_separator          : "-"
-name                     : &name "Yuanzhe Deng"
+name                     : &name "Yuanzhe (Felix) Deng"
 description              : &description "personal description"
 url                      : https://Felix-Deng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Felix-Deng/Felix-Deng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuanzhe Deng"
+  name             : "Yuanzhe (Felix) Deng"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "MASc student in Mechanical and Industrial Engineering at the University of Toronto"
   location         : "Toronto, Canada"
