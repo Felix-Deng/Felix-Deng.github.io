@@ -19,9 +19,6 @@ author_profile: true
 - A. Olechowski, <b>Y. Deng</b>, E. DaMaren, I. Verner, U. Rosen, and M. Mueller, "All’s not Fair in CAD: An Investigation of Equity of Contributions to Collaborative Cloud-based Design Projects," <i>CAD'22 Proceedings</i>, pp. 179 - 183, Beijing, China, Jun. 2022. [Link](https://doi.org/10.14733/cadconfP.2022.179-183)
 - <b>Y. Deng</b>, M. Mueller, C. Rogers, and A. Olechowski, “The multi-user computer-aided design collaborative learning framework,” <i>Advanced Engineering Informatics</i>, vol. 51, pp. 101446, Jan. 2022. [Link](https://doi.org/10.1016/j.aei.2021.101446) [Code](https://github.com/ReadyLab-UToronto/MUCAD-CLF)
 
-## Under Review 
-- <b>Y. Deng</b>, S. Zhang, K. Cheng, A. Olechowski, and S. Zhou, “Untangling the Timeline: Challenges and Op- portunities in Supporting Version Control in Modern Computer-Aided Design,” Under review for the <i>ACM on Human- Computer Interaction (CSCW 2025)</i>.
-
 {% if site.author.googlescholar %}
 <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
